@@ -1,5 +1,5 @@
 ## Hey there! I'm Ananya Sharma, an enthusiastic learner 👋
-##![image](https://github.com/user-attachments/assets/b3bf8e91-b72a-446b-a0f1-46183274cc8d)
+![image](https://github.com/user-attachments/assets/b3bf8e91-b72a-446b-a0f1-46183274cc8d)
 
 <!--
 **ananyascodes/ananyascodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
