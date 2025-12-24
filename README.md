@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/ananyascodes">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=000000&center=true&vCenter=true&width=550&lines=Graphic+Designing+Lead+%40+ByteEdu;Python+%7C+Machine+Learning+%7C+AI;Design+%E2%9C%95+Data+%E2%9C%95+Intelligence;B.Tech+IT+Student+%40+MITS+Gwalior" />
+    <img src="https://github.com/ananyascodes/ananyascodes/blob/main/assets/banner.jfif" />
   </a>
 </p>
 
