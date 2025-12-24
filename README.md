@@ -1,126 +1,110 @@
-<div align="center">
+<h1 align="center">Hi, I'm Ananya Sharma 👋</h1>
 
-  <!-- HERO IMAGE -->
-  <img src="https://raw.githubusercontent.com/ananyascodes/ananyascodes/main/assets/hero.png"
-       style="max-width:100%; height:auto; border-radius:12px;" />
-
-  <h1 style="margin-top:25px; font-weight:600; letter-spacing:2px;">
-    ANANYA SHARMA
-  </h1>
-
-  <p style="letter-spacing:3px; font-size:13px; margin-top:-5px;">
-    DESIGN • DATA • MACHINE LEARNING • AI
-  </p>
-
-</div>
-
-<hr style="border:none; border-top:1px solid #000; margin:40px 0;">
-
-<!-- ABOUT -->
-<div style="max-width:900px; margin:auto; font-size:16px; line-height:1.8;">
-
-<b>Graphic Designing Lead @ ByteEdu</b> · Social Media Manager  
-B.Tech Information Technology — MITS Gwalior (2024–2028)
-
-<br><br>
-
-Currently learning <b>Python, Machine Learning, and AI</b> by building
-real-world projects. Passionate about combining
-<b>design thinking</b> with <b>intelligent systems</b> to create meaningful products.
-
-</div>
-
-<hr style="border:none; border-top:1px solid #000; margin:40px 0;">
-
-<!-- SKILLS -->
-<div style="max-width:900px; margin:auto;">
-
-<h3>Focus</h3>
-
-<p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" width="18"/> Python &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/scikitlearn.svg" width="18"/> Machine Learning &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/google.svg" width="18"/> AI (Gemini) &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/adobe.svg" width="18"/> Graphic Design &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/figma.svg" width="18"/> Branding
+<p align="center">
+  <a href="https://github.com/ananyascodes">
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=000000&center=true&vCenter=true&width=550&lines=Graphic+Designing+Lead+%40+ByteEdu;Python+%7C+Machine+Learning+%7C+AI;Design+%E2%9C%95+Data+%E2%9C%95+Intelligence;B.Tech+IT+Student+%40+MITS+Gwalior" />
+  </a>
 </p>
 
-</div>
+---
 
-<hr style="border:none; border-top:1px solid #000; margin:40px 0;">
+## 👋 About Me
 
-<!-- PROJECTS -->
-<div style="max-width:900px; margin:auto;">
+I’m **Ananya Sharma**, a **Graphic Designing Lead**, **Social Media Manager**, and a **B.Tech IT student** from Gwalior, India.
 
-<h3>Selected Projects</h3>
+I’m currently learning **Python, Machine Learning, and AI** by building real-world, data-driven projects.  
+I love blending **design thinking** with **technology** to create solutions that are both **functional and visually meaningful**.
 
-<table width="100%" cellpadding="10">
-<tr>
-<td><b>Uber Fare Price Prediction</b><br>
-ML model for ride fare estimation<br>
-<a href="https://github.com/ananyascodes/Uber-Fare-Price-Prediction">View Repo</a></td>
+I value collaboration, empathy, and continuous learning.
 
-<td><b>Gemini Decode Application</b><br>
-AI-powered text decoding using Gemini<br>
-<a href="https://github.com/ananyascodes/Gemini-Decode-Application-">View Repo</a></td>
-</tr>
+---
 
-<tr>
-<td><b>Flight Price Prediction</b><br>
-Airfare prediction using ML<br>
-<a href="https://github.com/ananyascodes/Flight-price-prediction-using-ml">View Repo</a></td>
+## 🧩 Skills & Technologies
 
-<td><b>Heart Disease Prediction</b><br>
-EDA + ML health prediction<br>
-<a href="https://github.com/ananyascodes/Heart-Disease-EDA-and-Prediction">View Repo</a></td>
-</tr>
+### 💻 Programming & Data
+<p>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/pandas.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/numpy.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/scikitlearn.svg" width="30"/>
+</p>
 
-<tr>
-<td colspan="2"><b>Online Retail Sales Prediction</b><br>
-Sales forecasting & data analysis<br>
-<a href="https://github.com/ananyascodes/Online-Retail-Data-Analysis-Sales-Prediction">View Repo</a></td>
-</tr>
-</table>
+### 🤖 Machine Learning & AI
+<p>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/google.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/openai.svg" width="30"/>
+</p>
 
-</div>
+### 🎨 Design & Branding
+<p>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/adobe.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/figma.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/canva.svg" width="30"/>
+</p>
 
-<hr style="border:none; border-top:1px solid #000; margin:40px 0;">
+### 🔧 Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/jupyter.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/streamlit.svg" width="30"/>
+</p>
 
-<!-- EXPERIENCE -->
-<div style="max-width:900px; margin:auto;">
+---
 
-<h3>Experience</h3>
+## 🏢 Experience
 
-<b>Graphic Design Lead — ByteEdu</b><br>
-March 2025 – Present
+### 💼 Graphic Designing Lead — ByteEdu  
+*March 2025 – Present*  
+- Leading visual branding and design strategy  
+- Creating creatives for social media & educational content  
+- Collaborating with tech teams for product visuals  
 
-</div>
+---
 
-<hr style="border:none; border-top:1px solid #000; margin:40px 0;">
+## 🚀 Featured Projects
 
-<!-- CERTIFICATION -->
-<div style="max-width:900px; margin:auto;">
+| Project | Description | Tech Stack |
+|------|------------|-----------|
+| 🚕 Uber Fare Price Prediction | ML model to predict ride fares | Python, ML |
+| ✈️ Flight Price Prediction | Airline ticket price prediction | Python, ML |
+| ❤️ Heart Disease Prediction | EDA + health prediction model | Python, ML |
+| 🛒 Online Retail Sales Prediction | Sales forecasting & analytics | Python, ML |
+| 🤖 Gemini Decode Application | AI-powered text decoding app | Python, Gemini AI |
 
-<h3>Certification</h3>
+🔗 **Explore all projects:**  
+https://github.com/ananyascodes
 
-AWS APAC — Solutions Architecture (Job Simulation)
+---
 
-</div>
+## 🧠 Certifications
 
-<hr style="border:none; border-top:1px solid #000; margin:40px 0;">
+- 🏆 AWS APAC — Solutions Architecture (Job Simulation)
 
-<!-- CONTACT -->
-<div style="max-width:900px; margin:auto;">
+---
 
-<h3>Contact</h3>
+## 📊 GitHub Stats
 
-📧 ananyasharmaworks@gmail.com  
-🔗 https://www.linkedin.com/in/ananyasharma-dev
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ananyascodes&show_icons=true&theme=default&hide_border=true" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananyascodes&layout=compact&theme=default&hide_border=true" />
+</p>
 
-<hr style="border:none; border-top:1px solid #000; margin:40px 0;">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananyascodes&theme=default&hide_border=true" />
+</p>
 
-<div align="center" style="letter-spacing:3px; font-size:12px;">
-DESIGN × DATA × INTELLIGENCE
-</div>
+---
+
+## 🤝 Connect With Me
+
+<p>
+  📧 <a href="mailto:ananyasharmaworks@gmail.com">ananyasharmaworks@gmail.com</a><br>
+  🔗 <a href="https://www.linkedin.com/in/ananyasharma-dev">LinkedIn</a>
+</p>
+
+---
+
+<p align="center"><i>Design × Data × Intelligence</i></p>
