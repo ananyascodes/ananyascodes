@@ -23,31 +23,37 @@ I value collaboration, empathy, and continuous learning.
 
 ### 💻 Programming & Data
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/pandas.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/numpy.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/scikitlearn.svg" width="30"/>
+  <img src="https://img.shields.io/badge/Python-black?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-black?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-black?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-black?style=flat&logo=scikit-learn&logoColor=white"/>
 </p>
+
 
 ### 🤖 Machine Learning & AI
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/google.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/openai.svg" width="30"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-black?style=flat"/>
+  <img src="https://img.shields.io/badge/AI-black?style=flat"/>
+  <img src="https://img.shields.io/badge/Gemini%20AI-black?style=flat&logo=google&logoColor=white"/>
 </p>
+
 
 ### 🎨 Design & Branding
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/adobe.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/figma.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/canva.svg" width="30"/>
+  <img src="https://img.shields.io/badge/Graphic%20Design-black?style=flat"/>
+  <img src="https://img.shields.io/badge/Figma-black?style=flat&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-black?style=flat&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe-black?style=flat&logo=adobe&logoColor=white"/>
 </p>
+
 
 ### 🔧 Tools
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/jupyter.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/streamlit.svg" width="30"/>
+  <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-black?style=flat&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-black?style=flat&logo=streamlit&logoColor=white"/>
 </p>
+
 
 ---
 
